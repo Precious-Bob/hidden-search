@@ -1,1 +1,1 @@
-# hidden-search
+- A simple hidden search project
